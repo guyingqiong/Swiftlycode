@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.ProductCatalog.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\yingqgu\Downloads\ProductCatalog-master\ProductCatalog-master\.idea\.idea.ProductCatalog\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
